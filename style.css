@@ -5,3 +5,6 @@
     box-sizing: border-box;
     background-color: black;
 }
+.logo h1 {
+    color: orange;
+}
