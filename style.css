@@ -29,3 +29,8 @@
 .logo span {
     color: black;
 }
+.box img {
+    position: relative;
+    left: 230px;
+    top: 60px;
+}
