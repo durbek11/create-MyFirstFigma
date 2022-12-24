@@ -56,10 +56,15 @@ body {
     color: rgb(166, 160, 160);
 }
 
-.box img {
-    position: relative;
-    left: 230px;
-    top: 60px;
+.box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.later-box {
+    margin-top: 75px;
+    width: 500px;
+    color: white;
 }
 
 .movie-1 {
